@@ -1,0 +1,3 @@
+AWS_ACCESS_KEY_ID = "accesskey"
+AWS_SECRET_ACCESS_KEY = "secret-accesskey"
+AWS_DEFAULT_REGION = "ap-northeast-2"
